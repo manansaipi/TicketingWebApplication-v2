@@ -14,7 +14,6 @@ A fully functional ticketing system built with **Laravel** and **Bootstrap**, pr
 - [Video Demo](#video-demo)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
-- [License](#license)
 
 ---
 
